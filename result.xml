@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="1" hostname="KD4JP1FBJZM3YKK" name="pytest" skipped="0" tests="7" time="0.112" timestamp="2021-03-01T19:54:36.641014"><testcase classname="test_calc" name="test_a" time="0.003" /><testcase classname="test_calc.TestCalc" name="test_add" time="0.001" /><testcase classname="test_calc.TestCalc" name="test_add1" time="0.001" /><testcase classname="test_calc.TestCalc" name="test_add2" time="0.002" /><testcase classname="test_demo" name="test_a" time="0.003" /><testcase classname="test_demo" name="test_b" time="0.002" /><testcase classname="test_demo" name="test_c" time="0.003"><failure message="assert 2 == 1">def test_c():
+        print("test_demo.py test_c  打印提示")
+&gt;       assert 2==1
+E       assert 2 == 1
+
+test_demo.py:8: AssertionError</failure></testcase></testsuite></testsuites>
